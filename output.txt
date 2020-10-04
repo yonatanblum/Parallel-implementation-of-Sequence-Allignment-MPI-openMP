@@ -1,0 +1,4 @@
+NumberOfSeq2 = 0, Max Weight = 117.800000 , Offset = 363 , MutantSignPosition = 85
+NumberOfSeq2 = 1, Max Weight = 1873.400000 , Offset = 126 , MutantSignPosition = 41
+NumberOfSeq2 = 2, Max Weight = 271.400000 , Offset = 855 , MutantSignPosition = 51
+NumberOfSeq2 = 3, Max Weight = 236.100000 , Offset = 975 , MutantSignPosition = 245
